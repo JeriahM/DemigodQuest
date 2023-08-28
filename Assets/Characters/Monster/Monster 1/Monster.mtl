@@ -1,0 +1,70 @@
+# Exported from Fuse 2017.1.0
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Monster_Bottom_Opacity.png
+map_Kd Monster_Bottom_Diffuse.png
+adobe_map_normal Monster_Bottom_Normal.png
+map_Ks Monster_Bottom_Specular.png
+adobe_map_shininess Monster_Bottom_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Monster_Shoes_Opacity.png
+map_Kd Monster_Shoes_Diffuse.png
+adobe_map_normal Monster_Shoes_Normal.png
+map_Ks Monster_Shoes_Specular.png
+adobe_map_shininess Monster_Shoes_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Monster_Top_Opacity.png
+map_Kd Monster_Top_Diffuse.png
+adobe_map_normal Monster_Top_Normal.png
+map_Ks Monster_Top_Specular.png
+adobe_map_shininess Monster_Top_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Monster_Body_Opacity.png
+map_Kd Monster_Body_Diffuse.png
+adobe_map_normal Monster_Body_Normal.png
+map_Ks Monster_Body_Specular.png
+adobe_map_shininess Monster_Body_Gloss.png
+
